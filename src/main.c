@@ -47,6 +47,7 @@
 #include "remote-server.h"
 #include "batch-image-render.h"
 #include "gui-util.h"
+#include "math-util.h"
 
 #ifdef HAVE_GNET
 #include "cluster-model.h"
